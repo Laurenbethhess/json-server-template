@@ -17,6 +17,24 @@
       ],
       "image": "https://images.unsplash.com/photo-1608949621253-4eedba1d6b95?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Z3JpbGxlZCUyMGNoZWVzZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=700&q=60",
       "comments": "A grownup taste of your childhood."
+    },
+    {
+      "id": 2,
+      "name": "Peanut butter and Jelly",
+      "ingredients": [
+        "2 Slices soft bread (like white, oatmeal, or whole grain)",
+        "2 tbsp peanut butter (crunchy or smooth)",
+        "2 tbsp jelly or jam (pick your flavor)"
+      ],
+      "instructions": [
+        "spread peanut butter on one slice of bread",
+        "spread jelly on the other slice of bread",
+        "fold slices together (spreads facing each other)",
+        "cut in half or diagonal if preferred",
+        "enjoy!"
+      ],
+      "image": "https://images.unsplash.com/photo-1557275357-072087771588?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cGIlMjBhbmQlMjBqfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+      "comments": "the perfect yin and yang combo!"
     }
   ]
 }
